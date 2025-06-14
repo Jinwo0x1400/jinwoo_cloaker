@@ -40,9 +40,7 @@ $botLanding  = "https://example.com/blank.html";
 
 ---
 
-## 🖥️ Terminal Style
-
-When visited from desktop, it shows terminal-style "Jinwoo" branding:
+## 🖥️ Terminal
 
 ```
       ██╗██╗███╗   ██╗██╗    ██╗ ██████╗  ██████ 
